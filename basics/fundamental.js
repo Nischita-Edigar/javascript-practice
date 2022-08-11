@@ -59,6 +59,21 @@ console.log(#abs)
 var bbc% ="any"
 console.log(bbc%)*/
 
+//Non Primitive data type ----Object 
+//1.ARRAY
+let//or var
+digit =[0,1,2,3,4,5,6,7,8,9]
+console.log(digit)
+console.log(typeof digit)
+//2.Object
+var employee = {
+  emp_name: "Jhon",
+  emp_id : 101,
+  emp_salary : 45000
+}
+console.log(employee)
+console.log(typeof employee)
+
 
 
 
