@@ -74,6 +74,19 @@ var employee = {
 console.log(employee)
 console.log(typeof employee)
 
+let emp = {}  //empty object
+console.log(emp)
+console.log(typeof emp)
+
+var names = ['jhon','smith','michel','ram']
+console.log(names)
+console.log(typeof names)
+
+
+let a =[1,"two",' ',true,'anything',null,undefined]
+console.log(a)
+console.log(typeof a)
+
 
 
 
