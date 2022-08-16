@@ -39,5 +39,14 @@ console.log(result1)
 let result2=sum(20,2)
 console.log(result2)
 
+//return
+function cal_age(year){
+    return 2022-year
+    console.log('hey hello hai')   //return should be the last statement of function and nothing executes after return statement
+}
+let age = cal_age(1947)
+console.log(age)
+
+
 
 
