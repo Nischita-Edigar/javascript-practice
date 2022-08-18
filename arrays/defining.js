@@ -1,6 +1,6 @@
  /*An array is the group of  heterogeneous elements in an entity
  features : it allows duplicate elements
-            it allow heterogeneous elements
+            it allows heterogeneous elements
             it should be enclosed in a pair of square brackets []
             it occupies contineous memory allocation in an indexing format 
 
@@ -22,4 +22,4 @@ console.log(a)
 a[5]=8  //replacing 6 at index 5 by 8
 console.log(a)
 
-//Deleting an element is array by pop, splicing methods
+//Deleting an element in array using pop
