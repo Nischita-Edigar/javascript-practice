@@ -12,7 +12,12 @@ function changecolor3(){
     document.getElementById('color2').style.backgroundColor="orange"
 }
 function changecolor4(){
-    documnet.getElementById('color3').style.backgroundColor="black"
+    document.getElementById('color3').style.backgroundColor="skyblue"
+}
+function changecase(){
+    let name = document.getElementById('case').value
+    //console.log(name)
+    document.getElementById('case').value = name.toUpperCase();
 }
     
 
